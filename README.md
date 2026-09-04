@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -21,4 +22,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0141-linked-list-cycle/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
