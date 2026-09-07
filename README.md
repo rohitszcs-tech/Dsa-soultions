@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -30,5 +31,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
