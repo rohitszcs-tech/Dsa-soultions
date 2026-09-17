@@ -33,4 +33,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/0206-reverse-linked-list/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/1929-concatenation-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/rohitszcs-tech/Dsa-soultions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
